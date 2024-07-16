@@ -1,0 +1,4 @@
+# i want to git ignore the modules that dont need to upload in github
+
+node_modules
+
